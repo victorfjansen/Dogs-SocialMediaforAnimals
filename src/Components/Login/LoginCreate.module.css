@@ -1,0 +1,22 @@
+.login {
+  margin-top: 4rem;
+}
+
+.fazerLogin {
+  color: black;
+  border-bottom: 3px solid #fb1;
+  border-radius: 4px;
+}
+
+.login a:after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  overflow: hidden;
+}
+
+.adjustTitle {
+  font-size: 2rem;
+}
